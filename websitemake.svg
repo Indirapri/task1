@@ -1,0 +1,29 @@
+<svg width="197" height="162" viewBox="0 0 197 162" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="2.5" y="2.5" width="191" height="157" fill="white" stroke="#86D3E4" stroke-width="5"/>
+<line x1="4.96768" y1="46.8061" x2="196.005" y2="46.546" stroke="#86D3E4" stroke-width="3"/>
+<circle cx="22.5" cy="23.5" r="9.5" fill="white"/>
+<circle cx="22.5" cy="23.5" r="8.5" stroke="#FF0101" stroke-opacity="0.33" stroke-width="2"/>
+<circle cx="46.5" cy="23.5" r="9.5" fill="white"/>
+<circle cx="46.5" cy="23.5" r="8.5" stroke="#FAFF0E" stroke-opacity="0.33" stroke-width="2"/>
+<circle cx="70.5" cy="23.5" r="9.5" fill="white"/>
+<circle cx="70.5" cy="23.5" r="8.5" stroke="#70FF00" stroke-opacity="0.65" stroke-width="2"/>
+<line y1="-0.5" x2="12.4743" y2="-0.5" transform="matrix(0.721484 -0.692431 0.721484 0.692431 18 27.8322)" stroke="#FFABAB"/>
+<line y1="-0.5" x2="13.2139" y2="-0.5" transform="matrix(0.756777 0.653673 -0.684043 0.729442 17 19.1946)" stroke="#FFABAB"/>
+<line x1="41" y1="23.5" x2="52" y2="23.5" stroke="#FDFFAF"/>
+<line y1="-0.5" x2="5.77073" y2="-0.5" transform="matrix(0.86898 -0.494848 0.525863 0.85057 67 21.0906)" stroke="#A2FF59"/>
+<line y1="-0.5" x2="4.96765" y2="-0.5" transform="matrix(0.611964 0.790886 -0.814341 0.580387 71 18.2349)" stroke="#A2FF59"/>
+<path d="M66.6399 24.1624L68 26.3926L69.36 28.6229" stroke="#A2FF59"/>
+<line y1="-0.5" x2="4.4367" y2="-0.5" transform="matrix(0.90157 -0.432633 0.462036 0.886861 69 28.7919)" stroke="#A2FF59"/>
+<line x1="36.0607" y1="74.0607" x2="28.0607" y2="82.0607" stroke="#86D3E4" stroke-width="3"/>
+<line x1="35.5766" y1="87.5382" x2="27.9507" y2="80.0718" stroke="#86D3E4" stroke-width="3"/>
+<line x1="39.964" y1="80.885" x2="55.9618" y2="80.5004" stroke="#86D3E4" stroke-width="3"/>
+<line x1="59.9209" y1="72.816" x2="68.9209" y2="79.816" stroke="#86D3E4" stroke-width="3"/>
+<line x1="69.184" y1="77.9209" x2="62.184" y2="86.9209" stroke="#86D3E4" stroke-width="3"/>
+<rect x="101" y="88" width="2" height="45" fill="#86D3E4"/>
+<rect x="103.5" y="90.5" width="32" height="9" fill="#86D3E4" stroke="#86D3E4" stroke-width="5"/>
+<line x1="139" y1="88" x2="139" y2="133" stroke="#86D3E4" stroke-width="2"/>
+<line x1="101" y1="131.5" x2="138" y2="131.5" stroke="#86D3E4" stroke-width="3"/>
+<line x1="117.023" y1="110" x2="105.977" y2="110" stroke="#86D3E4"/>
+<line x1="121.994" y1="108.629" x2="133.039" y2="108.5" stroke="#86D3E4"/>
+<ellipse cx="121" cy="119.5" rx="11" ry="3.5" transform="rotate(170.918 121 119.5)" fill="#86D3E4"/>
+</svg>
